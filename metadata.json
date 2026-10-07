@@ -1,0 +1,6 @@
+{
+  "name": "Inducción Institucional SENA",
+  "description": "Plataforma interactiva de inducción institucional para aprendices del SENA: historia, símbolos, valores, reglamento del aprendiz, etapas formativas, simulador y pasaporte de certificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

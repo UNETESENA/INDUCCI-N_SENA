@@ -1,0 +1,53 @@
+{
+  "documento": {
+    "entidad": "Servicio Nacional de Aprendizaje - SENA",
+    "tipo_documento": "Acuerdo",
+    "numero": "0009 de 2024",
+    "titulo": "Reglamento del Aprendiz SENA",
+    "fecha_expedicion": "2024",
+    "organo_emisor": "Consejo Directivo Nacional",
+    "deroga": [
+      "Acuerdo 07 de 2012",
+      "Acuerdo 02 de 2014",
+      "Acuerdo 06 de 2023",
+      "Acuerdo 02 de 2024"
+    ],
+    "capitulos_clave": [
+      {
+        "capitulo": "Capítulo I",
+        "titulo": "Principios Generales y Ámbito de Aplicación",
+        "descripcion": "Rige para todos los aprendices matriculados en programas de formación titulada y complementaria en modalidades presencial, virtual y a distancia."
+      },
+      {
+        "capitulo": "Capítulo II",
+        "titulo": "Derechos del Aprendiz SENA (Artículo 5)",
+        "descripcion": "Establece 24 derechos fundamentales organizados en garantías académicas, tecnológicas, de dignidad humana, bienestar y participación democrática."
+      },
+      {
+        "capitulo": "Capítulo III",
+        "titulo": "Deberes del Aprendiz SENA (Artículo 8)",
+        "descripcion": "Compromisos de asistencia, porte de carné, probidad académica, no plagio, cuidado de bienes del Estado y seguridad y salud en el trabajo."
+      },
+      {
+        "capitulo": "Capítulo IV",
+        "titulo": "Prohibiciones (Artículo 9)",
+        "descripcion": "Conductas vedadas con especial énfasis en prevención del acoso sexual, discriminación de género, porte de armas, sustancias y fraude informático."
+      },
+      {
+        "capitulo": "Capítulo V",
+        "titulo": "Faltas y Régimen Disciplinario",
+        "descripcion": "Clasificación rigurosa en Faltas Leves, Graves y Gravísimas con criterios de calificación y atenuantes o agravantes."
+      },
+      {
+        "capitulo": "Capítulo VI",
+        "titulo": "Medidas Formativas y Sanciones",
+        "descripcion": "Llamado de atención por escrito, planes de mejoramiento, condicionamiento de matrícula y cancelación de matrícula con inhabilidad de 1 a 3 años."
+      },
+      {
+        "capitulo": "Capítulo VII",
+        "titulo": "Debido Proceso y Comité de Evaluación",
+        "descripcion": "Garantías del Artículo 29 constitucional: comunicación escrita de queja, descargos, pruebas, dictamen colegiado y recurso de reposición."
+      }
+    ]
+  }
+}
